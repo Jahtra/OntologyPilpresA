@@ -1,0 +1,11 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1000"
+node [shape = rectangle, color="black"]; "base:pariwisata" "base:startup" "base:umkm" "base:Industri" "base:decacorn" "base:Ekonomi" "base:Keadilan" "base:Hukum" ; /*classes style*/
+	"base:umkm" -> "base:Ekonomi" [ label = "rdfs:subClassOf" ];
+	"base:Keadilan" -> "base:Hukum" [ label = "rdfs:subClassOf" ];
+	"base:decacorn" -> "base:startup" [ label = "rdfs:subClassOf" ];
+	"base:startup" -> "base:Industri" [ label = "rdfs:subClassOf" ];
+	"base:pariwisata" -> "base:Ekonomi" [ label = "rdfs:subClassOf" ];
+
+}
