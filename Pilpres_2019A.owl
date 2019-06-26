@@ -127,12 +127,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#2_tahun_kasus -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#2_tahun_kasus"/>
-    
-
-
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#KTP -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#KTP"/>
