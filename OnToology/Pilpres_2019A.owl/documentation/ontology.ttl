@@ -97,9 +97,19 @@
                       :Infrastruktur .
 
 
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding
+:banding rdf:type owl:NamedIndividual ,
+                  :Keadilan .
+
+
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bangun_jembatan
 :bangun_jembatan rdf:type owl:NamedIndividual ,
                           :Infrastruktur .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum
+:bantuan_hukum rdf:type owl:NamedIndividual ,
+                        :Keadilan .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara
@@ -123,8 +133,7 @@
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak
-:bukalapak rdf:type owl:NamedIndividual ,
-                    :Keadilan .
+:bukalapak rdf:type owl:NamedIndividual .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dana
@@ -247,6 +256,11 @@
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur
 :infrastruktur rdf:type owl:NamedIndividual ,
                         :Infrastruktur .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum
+:jaksa_hukum rdf:type owl:NamedIndividual ,
+                      :Keadilan .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jalan_tol
@@ -402,6 +416,11 @@
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lombok
 :lombok rdf:type owl:NamedIndividual ,
                  :pariwisata .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah
+:mahkamah rdf:type owl:NamedIndividual ,
+                   :Keadilan .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#maju_pesat
@@ -560,9 +579,24 @@
                                   :Infrastruktur .
 
 
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan
+:penangkapan rdf:type owl:NamedIndividual ,
+                      :Keadilan .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum
+:penasihat_hukum rdf:type owl:NamedIndividual ,
+                          :Keadilan .
+
+
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penculikan_aktivis
 :penculikan_aktivis rdf:type owl:NamedIndividual ,
                              :Keadilan .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa
+:pendakwa rdf:type owl:NamedIndividual ,
+                   :Keadilan .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendapatan_negara
@@ -573,6 +607,11 @@
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan
 :pengalengan_ikan rdf:type owl:NamedIndividual ,
                            :umkm .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat
+:penggugat rdf:type owl:NamedIndividual ,
+                    :Keadilan .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengusaha
@@ -588,6 +627,16 @@
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penopang_ekonomi
 :penopang_ekonomi rdf:type owl:NamedIndividual ,
                            :Infrastruktur .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut
+:penuntut rdf:type owl:NamedIndividual ,
+                   :Keadilan .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik
+:penyidik rdf:type owl:NamedIndividual ,
+                   :Keadilan .
 
 
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyiraman_air_keras
@@ -677,6 +726,11 @@
                 :decacorn .
 
 
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi
+:saksi rdf:type owl:NamedIndividual ,
+                :Keadilan .
+
+
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm
 :sdm rdf:type owl:NamedIndividual ,
               :sdm .
@@ -726,6 +780,11 @@
                   :pariwisata .
 
 
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum
+:sistem_hukum rdf:type owl:NamedIndividual ,
+                       :Keadilan .
+
+
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sumberdaya
 :sumberdaya rdf:type owl:NamedIndividual ,
                      :sdm .
@@ -771,6 +830,11 @@
                        :Infrastruktur .
 
 
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa
+:terdakwa rdf:type owl:NamedIndividual ,
+                   :Keadilan .
+
+
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tidak_memadai
 :tidak_memadai rdf:type owl:NamedIndividual ,
                         :Infrastruktur .
@@ -801,6 +865,11 @@
                  :Keadilan .
 
 
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut
+:tuntut rdf:type owl:NamedIndividual ,
+                 :Keadilan .
+
+
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis
 :turis rdf:type owl:NamedIndividual ,
                 :pariwisata .
@@ -828,6 +897,11 @@
 ###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#wisata
 :wisata rdf:type owl:NamedIndividual ,
                  :pariwisata .
+
+
+###  http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi
+:yuridiksi rdf:type owl:NamedIndividual ,
+                    :Keadilan .
 
 
 #################################################################

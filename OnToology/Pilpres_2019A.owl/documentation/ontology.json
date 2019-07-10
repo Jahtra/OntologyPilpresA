@@ -53,8 +53,14 @@
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#aset_negara",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
 }, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bangun_jembatan",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
@@ -69,7 +75,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak",
-  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dana",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ]
@@ -154,6 +160,9 @@
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jalan_tol",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
@@ -250,6 +259,9 @@
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lombok",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#maju_pesat",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata" ]
@@ -353,7 +365,16 @@
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembebasan_tanah_rakyat",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
 }, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penculikan_aktivis",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendapatan_negara",
@@ -361,6 +382,9 @@
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengusaha",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm" ]
@@ -370,6 +394,12 @@
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penopang_ekonomi",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyiraman_air_keras",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
@@ -425,6 +455,9 @@
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saham",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn" ]
 }, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class", "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm" ],
   "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
@@ -457,6 +490,9 @@
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sirkuit",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
@@ -494,6 +530,9 @@
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tenaga_asing",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
 }, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tidak_memadai",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
 }, {
@@ -510,6 +549,9 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tumpul",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis",
@@ -535,4 +577,7 @@
 }, {
   "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#wisata",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata" ]
+}, {
+  "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan" ]
 } ]
