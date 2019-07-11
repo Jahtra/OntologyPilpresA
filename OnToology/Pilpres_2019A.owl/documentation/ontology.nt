@@ -81,17 +81,33 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#aset_negara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#aset_negara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bangun_jembatan
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bangun_jembatan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bangun_jembatan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berbagai_produk
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berbagai_produk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berbagai_produk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berdayakan
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berdayakan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berdayakan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bidang_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bidang_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bidang_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -101,9 +117,13 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_cerdas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_cerdas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_online
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
-<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dana
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -116,13 +136,24 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi_wisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi_wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi_wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
-<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dikelola_asing
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dikelola_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dikelola_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dispruptif
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dispruptif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dispruptif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#driver
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#driver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -148,9 +179,25 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_digital
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_nasional
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_online
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_startup
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_startup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_startup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekspor_umkm
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekspor_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekspor_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#emak
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#emak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -159,9 +206,17 @@
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#emak-emak
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#emak-emak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#era_global
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#era_global> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#era_global> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#freeport
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#freeport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#freeport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#go_online
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#go_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#go_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#gocar
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#gocar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -190,6 +245,10 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#import_ikan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#import_ikan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#individu_berkualitas
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#individu_berkualitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#individu_berkualitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#indonesia_timur
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#indonesia_timur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#indonesia_timur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
@@ -198,9 +257,29 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur_digital
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#inovasi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#inovasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#inovasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#intelektual
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#intelektual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#intelektual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jalan_tol
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jalan_tol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -220,6 +299,14 @@
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kasus
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kasus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kasus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kawasan_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kawasan_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kawasan_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keahlian
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keahlian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keahlian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kebal_hukum
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kebal_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -289,6 +376,26 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#komoditas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#komoditas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompeten
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompeten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompeten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetensi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetensi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetensi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetitif
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetitif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetitif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konektivitas_ekonomi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konektivitas_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konektivitas_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konstitusi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konstitusi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konstitusi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#koperasi_umkm
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#koperasi_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#koperasi_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
@@ -301,13 +408,29 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kpk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kpk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kreativitas
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kreativitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kreativitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas_sdm
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas_sdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas_sdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kuasai_asing
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kuasai_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kuasai_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_wisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lapangan_kerja
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lapangan_kerja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -321,9 +444,17 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lintas_luar_desa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lintas_luar_desa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#literasi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#literasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#literasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lombok
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lombok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lombok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#maju_pesat
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#maju_pesat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -389,6 +520,10 @@
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mimpi_anak_indonesia
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mimpi_anak_indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mitra_umkm
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mitra_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mitra_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#modal
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#modal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#modal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
@@ -413,9 +548,29 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ntb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ntb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_wisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_indonesia
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_unggulan
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_unggulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_unggulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_umkm
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_usaha
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_usaha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -437,6 +592,10 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pemerintah
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pemerintah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pemerintah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
@@ -449,17 +608,37 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembebasan_tanah_rakyat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembebasan_tanah_rakyat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penculikan_aktivis
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penculikan_aktivis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penculikan_aktivis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendapatan_negara
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendapatan_negara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendapatan_negara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendidikan_karakter
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendidikan_karakter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendidikan_karakter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengusaha
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengusaha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -472,6 +651,14 @@
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penopang_ekonomi
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penopang_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penopang_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyiraman_air_keras
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyiraman_air_keras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -492,6 +679,14 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_infrastruktur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_infrastruktur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_umkm
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perlindungan_hukum
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perlindungan_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perlindungan_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#permodalan
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#permodalan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#permodalan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
@@ -506,11 +701,30 @@
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
-<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_ekonomi
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_umkm
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_umkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_berbasis_teknologi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_berbasis_teknologi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_berbasis_teknologi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_rintisan
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_rintisan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_rintisan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_teknologi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_teknologi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_teknologi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pionir_inovatif
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pionir_inovatif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pionir_inovatif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pltu
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pltu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -523,8 +737,16 @@
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pra_kerja
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pra_kerja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#produk_potensial
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#produk_potensial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#produk_potensial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kartu
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kartu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#promosi_pariwisata
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#promosi_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#promosi_pariwisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rakyat_aman
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rakyat_aman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -534,6 +756,10 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#riba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#riba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rintisan
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rintisan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rintisan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#roda_ekonomi
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#roda_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#roda_ekonomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
@@ -542,13 +768,29 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_digital
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_lain
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_lain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_lain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_makanan
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_makanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_makanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_produk
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_produk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_produk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sel
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -580,6 +822,14 @@
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sirkuit
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sirkuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sirkuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#skill
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#skill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#skill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sumberdaya
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sumberdaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -613,9 +863,25 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tebang_pilih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tebang_pilih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi_digital
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi_digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tenaga_asing
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tenaga_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tenaga_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terampil
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terampil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terampil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tidak_memadai
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tidak_memadai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -625,9 +891,21 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tindak_tegas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tindak_tegas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tokopedia
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tokopedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tokopedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#trans_utara_flores
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#trans_utara_flores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#trans_utara_flores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#transportasi_daring
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#transportasi_daring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#transportasi_daring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#traveloka
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#traveloka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#traveloka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tukang_ojek
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tukang_ojek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -641,9 +919,16 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tumpul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tumpul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis_asing
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis_asing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 # 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ukmn
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ukmn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
@@ -656,13 +941,41 @@
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_besar
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_besar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_besar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_kecil
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_kecil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_kecil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_menengah
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_menengah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_menengah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rakyat
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rakyat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rakyat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rintisan
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rintisan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rintisan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usut
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#valuasi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#valuasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#valuasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn> .
+# 
 # http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#wisata
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#wisata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata> .
+# 
+# http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan> .
 # 
 # 
 # 
