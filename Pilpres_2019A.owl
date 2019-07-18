@@ -22,6 +22,36 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kerja -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kerja">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <program_kerja>dunia_industri</program_kerja>
+                <program_kerja>dunia_usaha</program_kerja>
+                <program_kerja>ok oce</program_kerja>
+                <program_kerja>digital_melayani</program_kerja>
+                <program_kerja>desa_wisata</program_kerja>
+                <program_kerja>desa_digital</program_kerja>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Classes
     //
     ///////////////////////////////////////////////////////////////////////////////////////
