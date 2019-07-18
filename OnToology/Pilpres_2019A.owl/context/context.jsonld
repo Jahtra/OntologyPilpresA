@@ -1,7 +1,7 @@
 {
   "@context" : {
-    "Keadilan" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"
+    "infrastruktur" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"
     },
     "decacorn" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"
@@ -12,26 +12,26 @@
     "startup" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup"
     },
-    "Infrastruktur" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"
-    },
     "sdm" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"
+    },
+    "keadilan" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"
     },
     "pariwisata" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"
     },
+    "industri" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri"
+    },
+    "ekonomi" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"
+    },
     "isDefinedBy" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
     },
-    "Ekonomi" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Ekonomi"
-    },
-    "Industri" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Industri"
-    },
-    "Hukum" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Hukum"
+    "hukum" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum"
     }
   }
 }

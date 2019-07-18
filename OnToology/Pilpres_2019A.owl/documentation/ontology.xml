@@ -22,53 +22,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Ekonomi -->
-
-
-    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Ekonomi">
-        <rdfs:isDefinedBy>Ekonomi adalah sebuah hal yang berhubungan dengan upaya dan daya manusia dalam memenuhi kebutuhan hidup untuk mencapai suatu tingkatan kemakmuran. Ekonomi menjadi sektor penting di Indonesia, oleh karena itu setiap paslon bertarung untuk memberikan visi misi terbaiknya terkait ekonomi di Indonesia.</rdfs:isDefinedBy>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Hukum -->
-
-
-    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Hukum">
-        <rdfs:isDefinedBy>Hukum adalah peraturan yang berupa norma dan sanksi yang dibuat dengan tujuan untuk mengatur tingkah laku manusia, menjaga ketertiban, keadilan, mencegah terjadinya kekacauan. Hukum menjadi suatu hal yang penting dan sangat kental di Indonesia karena Indonesia merupakan negara hukum. Pada pilpres 2019 ini setiap paslon berlomba-lomba untuk menegakan hukum yang terbaik di dalam visi misnya
-</rdfs:isDefinedBy>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Industri -->
-
-
-    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Industri">
-        <rdfs:isDefinedBy>Industri adalah suatu usaha, proses atau kegiatan pengolahan bahan baku baik bahan mentah ataupun bahan setengah jadi agar menjadi barang yang bernilai ekonomis lebih tinggi dan bermanfaat bagi masyarakat. Sektor industri merupakan kontributor terbesar bagi perekonomian nasional dengan sumbangannya mencapai lebih dari 20 persen</rdfs:isDefinedBy>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur -->
-
-
-    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur">
-        <rdfs:isDefinedBy>Infrastruktur adalah semua struktur dan fasilitas dasar, baik fisik maupun sosial (misalnya bangunan, jalan, dan pasokan listrik) yang diperlukan untuk operasional kegiatan masyarakat atau perusahaan. Infrastruktur menjadi point penting dalam visi misi paslon karena Indonesia sekarang dalam status negara berkembang </rdfs:isDefinedBy>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan -->
-
-
-    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Hukum"/>
-        <rdfs:isDefinedBy>Keadlilan berasall dari kata &quot;Adil&quot; yang berarti tidak berat sebelah, tidak memihak, berpihak kepada yang benar, sepatutnya, tidak sewenang-wenang. Keadlian merupakan sub kelas dari bidang Hukum dan merupakan suatu hal yang tidak bisa dipisahkan dengan hukum</rdfs:isDefinedBy>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn -->
 
 
@@ -79,11 +32,49 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi -->
+
+
+    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum -->
+
+
+    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum"/>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri -->
+
+
+    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri"/>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur -->
+
+
+    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan -->
+
+
+    <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum"/>
+        <rdfs:isDefinedBy>Keadlilan berasall dari kata &quot;Adil&quot; yang berarti tidak berat sebelah, tidak memihak, berpihak kepada yang benar, sepatutnya, tidak sewenang-wenang. Keadlian merupakan sub kelas dari bidang Hukum dan merupakan suatu hal yang tidak bisa dipisahkan dengan hukum</rdfs:isDefinedBy>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata -->
 
 
     <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Ekonomi"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
     </owl:Class>
     
 
@@ -99,7 +90,7 @@
 
 
     <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Industri"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri"/>
         <rdfs:isDefinedBy>Starup merupakan bagian dari industri yaitu bidang teknologi.Startup adalah sesuatu bisnis yang baru saja berdiri dan berkembang dengan didukung oleh layanan digital dan masih butuh banyak pendanaan untuk beroperasi dengan kelompok kerja yang minimali. Startup adalah salah satu bidang yang didukung oleh paslon untuk menambah investasi negara dalam hal teknologi.</rdfs:isDefinedBy>
     </owl:Class>
     
@@ -109,7 +100,7 @@
 
 
     <owl:Class rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Ekonomi"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
     </owl:Class>
     
 
@@ -144,7 +135,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#akses_menuju_desa">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -153,7 +144,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#anggaran">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -162,7 +153,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#aparat">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -171,7 +162,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#aset_negara">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#banding">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -180,7 +180,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bangun_jembatan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bantuan_hukum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -189,7 +198,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berbagai_produk -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berbagai_produk">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
     </owl:NamedIndividual>
     
 
@@ -199,6 +217,15 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#berdayakan">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bidang_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bidang_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
     </owl:NamedIndividual>
     
 
@@ -221,11 +248,20 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_online -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bisnis_online">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#bukalapak">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -255,10 +291,26 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi_wisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#destinasi_wisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa"/>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#devisa_pariwisata">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
     </owl:NamedIndividual>
     
@@ -268,7 +320,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dikelola_asing">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dispruptif -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dispruptif">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -286,7 +347,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dua_tahun_kasus">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -295,7 +356,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dukung">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -313,7 +374,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#efek_samping_pembangunan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -327,11 +388,47 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_digital -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_digital">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_nasional -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi_nasional">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_online -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_online">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_startup -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekosistem_startup">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekspor_umkm -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekspor_umkm">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
     </owl:NamedIndividual>
     
 
@@ -352,11 +449,38 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#era_global -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#era_global">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#freeport -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#freeport">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#generasi_masa_depan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#generasi_masa_depan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#go_online -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#go_online">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -401,7 +525,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -422,11 +546,20 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#individu_berkualitas -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#individu_berkualitas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#indonesia_timur -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#indonesia_timur">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -440,11 +573,56 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur_digital -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur_digital">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#inovasi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#inovasi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#intelektual -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#intelektual">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jaksa_hukum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -453,7 +631,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jalan_tol">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -462,7 +640,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#jalur_kereta_api">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -487,7 +665,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kasus">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kawasan_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kawasan_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keahlian -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keahlian">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
     </owl:NamedIndividual>
     
 
@@ -496,7 +692,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kebal_hukum">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -505,7 +701,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kejahatan_hukum">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -523,7 +719,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kemajuan_daerah">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -548,7 +744,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kemerataan_pembangunan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -575,7 +771,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kesejahteraan_rakyat">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -593,7 +789,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ketidakadilan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -625,7 +821,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#koalisi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -641,7 +837,52 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#komoditas">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompeten -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompeten">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetensi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetensi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetitif -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kompetitif">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konektivitas_ekonomi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konektivitas_ekonomi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konstitusi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#konstitusi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -659,7 +900,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#koruptor">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -668,7 +909,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kpk">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kreativitas -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kreativitas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -682,11 +932,38 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas_sdm -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kualitas_sdm">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kuasai_asing -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kuasai_asing">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_wisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#kunjungan_wisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
     </owl:NamedIndividual>
     
 
@@ -713,7 +990,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lintas_luar_desa">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#literasi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#literasi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
     </owl:NamedIndividual>
     
 
@@ -723,6 +1009,15 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#lombok">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mahkamah">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -767,7 +1062,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mata_cacat">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -810,7 +1105,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mempercepat_pemerataan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -819,7 +1114,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#memperluas_jaringan_usaha">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -835,7 +1130,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#menguntungkan_elit">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -851,7 +1146,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#merugikan_masyarakat">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -869,6 +1164,15 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mimpi_anak_indonesia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mitra_umkm -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#mitra_umkm">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
     
 
 
@@ -903,7 +1207,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#negara_maju">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -912,7 +1216,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#novel_baswedan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -926,11 +1230,56 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_wisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#objek_wisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_indonesia -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_indonesia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_unggulan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata_unggulan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_umkm -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pelaku_umkm">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
     </owl:NamedIndividual>
     
 
@@ -980,6 +1329,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_pemerintah -->
 
 
@@ -993,7 +1351,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan_rumah_ibadah">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1002,7 +1360,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembebasan_tanah_rakyat">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penangkapan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penasihat_hukum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1011,7 +1387,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penculikan_aktivis">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendakwa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1025,11 +1410,29 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendidikan_karakter -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pendidikan_karakter">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pengalengan_ikan">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penggugat">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1047,7 +1450,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#peningkatan_kualitas">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1056,7 +1459,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penopang_ekonomi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penuntut">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyidik">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1065,7 +1486,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#penyiraman_air_keras">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1099,7 +1520,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_infrastruktur">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_umkm -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perkembangan_umkm">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perlindungan_hukum -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perlindungan_hukum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1126,7 +1565,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertambangan_batu_bara">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1134,9 +1573,7 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan -->
 
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
-    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan"/>
     
 
 
@@ -1144,7 +1581,52 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_ekonomi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_umkm -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pertumbuhan_umkm">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_berbasis_teknologi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_berbasis_teknologi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_rintisan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_rintisan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_teknologi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#perusahaan_teknologi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pionir_inovatif -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pionir_inovatif">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
     </owl:NamedIndividual>
     
 
@@ -1153,7 +1635,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pltu">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1162,7 +1644,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#potensi_industri">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1174,6 +1656,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#produk_potensial -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#produk_potensial">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kartu -->
 
 
@@ -1181,11 +1672,20 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#promosi_pariwisata -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#promosi_pariwisata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rakyat_aman -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rakyat_aman">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1195,6 +1695,15 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#riba">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rintisan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#rintisan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -1217,6 +1726,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#saksi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm -->
 
 
@@ -1226,11 +1744,38 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_digital -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_digital">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_lain -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_lain">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_makanan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_makanan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_produk -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sektor_produk">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
     </owl:NamedIndividual>
     
 
@@ -1239,7 +1784,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sel">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1266,7 +1811,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#semua_golongan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1275,7 +1820,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sengketa_ganti_rugi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1284,7 +1829,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sila">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1301,6 +1846,33 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sirkuit">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sistem_hukum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#skill -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#skill">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sumber_daya_manusia -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sumber_daya_manusia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
     </owl:NamedIndividual>
     
 
@@ -1336,7 +1908,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tajam_ke_lawan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#talenta -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#talenta">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
     </owl:NamedIndividual>
     
 
@@ -1345,7 +1926,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tanpa_pandang_bulu">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1372,7 +1953,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tebang_pilih">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi_digital -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#teknologi_digital">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -1381,7 +1980,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tenaga_asing">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terampil -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terampil">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#terdakwa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1390,7 +2007,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tidak_memadai">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1399,7 +2016,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tindak_tegas">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tokopedia -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tokopedia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -1408,7 +2034,25 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#trans_utara_flores">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#transportasi_daring -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#transportasi_daring">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#traveloka -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#traveloka">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -1426,7 +2070,7 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tumbuh_lebih_kompetitif">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
     
 
@@ -1435,7 +2079,16 @@
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tumpul">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#tuntut">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
     </owl:NamedIndividual>
     
 
@@ -1446,6 +2099,13 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
     </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis_asing -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#turis_asing"/>
     
 
 
@@ -1474,11 +2134,65 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_besar -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_besar">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_kecil -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_kecil">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_menengah -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_menengah">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rakyat -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rakyat">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rintisan -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usaha_rintisan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usut -->
 
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#usut">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#valuasi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#valuasi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
     </owl:NamedIndividual>
     
 
@@ -1492,6 +2206,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#yuridiksi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -1501,6 +2224,19 @@
      -->
 
 
+    <rdf:Description rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi">
+        <rdfs:isDefinedBy>Ekonomi adalah sebuah hal yang berhubungan dengan upaya dan daya manusia dalam memenuhi kebutuhan hidup untuk mencapai suatu tingkatan kemakmuran. Ekonomi menjadi sektor penting di Indonesia, oleh karena itu setiap paslon bertarung untuk memberikan visi misi terbaiknya terkait ekonomi di Indonesia.</rdfs:isDefinedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum">
+        <rdfs:isDefinedBy>Hukum adalah peraturan yang berupa norma dan sanksi yang dibuat dengan tujuan untuk mengatur tingkah laku manusia, menjaga ketertiban, keadilan, mencegah terjadinya kekacauan. Hukum menjadi suatu hal yang penting dan sangat kental di Indonesia karena Indonesia merupakan negara hukum. Pada pilpres 2019 ini setiap paslon berlomba-lomba untuk menegakan hukum yang terbaik di dalam visi misnya
+</rdfs:isDefinedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri">
+        <rdfs:isDefinedBy>Industri adalah suatu usaha, proses atau kegiatan pengolahan bahan baku baik bahan mentah ataupun bahan setengah jadi agar menjadi barang yang bernilai ekonomis lebih tinggi dan bermanfaat bagi masyarakat. Sektor industri merupakan kontributor terbesar bagi perekonomian nasional dengan sumbangannya mencapai lebih dari 20 persen</rdfs:isDefinedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur">
+        <rdfs:isDefinedBy>Infrastruktur adalah semua struktur dan fasilitas dasar, baik fisik maupun sosial (misalnya bangunan, jalan, dan pasokan listrik) yang diperlukan untuk operasional kegiatan masyarakat atau perusahaan. Infrastruktur menjadi point penting dalam visi misi paslon karena Indonesia sekarang dalam status negara berkembang </rdfs:isDefinedBy>
+    </rdf:Description>
     <rdf:Description rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata">
         <rdfs:isDefinedBy>Pariwisata di Indonesia merupakan sub bagian dari sektor ekonomi yang cukup penting karena sebagian daerah di Indonesia memiliki kekayaan alam dan keindahan alam yang bisa dijadikan sumber ekonomi oleh sebagian masyarakat Indonesia. Pada tahun 2009, pariwisata menempati urutan ketiga dalam hal penerimaan devisa setelah komoditi minyak dan gas bumi serta minyak kelapa sawit. Berdasarkan data tahun 2016, jumlah wisatawan mancanegara yang datang ke Indonesia sebesar 11.525.963 juta lebih atau tumbuh sebesar 10,79% dibandingkan tahun sebelumnya. </rdfs:isDefinedBy>
     </rdf:Description>
