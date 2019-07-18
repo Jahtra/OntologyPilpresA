@@ -1,5 +1,8 @@
 digraph ar2dtool_diagram { 
 rankdir=LR;
 size="1501"
+node [shape = rectangle, color="orange"]; "base:umkm" ; /*classes style*/
+	"base:program_kerja" -> "-c167711:16c05ef75e6:-7ffc" [ label = "owl:backwardCompatibleWith" ];
+	"base:umkm" -> "xsd:string" [ label = "base:program_kerja" ];
 
 }
