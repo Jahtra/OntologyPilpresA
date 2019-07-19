@@ -37,10 +37,10 @@
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
-                <program_kerja>dunia_industri</program_kerja>
                 <program_kerja>dunia_usaha</program_kerja>
-                <program_kerja>ok oce</program_kerja>
                 <program_kerja>digital_melayani</program_kerja>
+                <program_kerja>ok_oce</program_kerja>
+                <program_kerja>dunia_industri</program_kerja>
                 <program_kerja>desa_wisata</program_kerja>
                 <program_kerja>desa_digital</program_kerja>
             </rdf:Description>
