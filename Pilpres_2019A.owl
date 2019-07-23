@@ -110,6 +110,7 @@
             <rdf:Description>
                 <ok_oce>enterpreneur</ok_oce>
                 <ok_oce>enterpreneurship</ok_oce>
+                <ok_oce>kewirausahaan</ok_oce>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
