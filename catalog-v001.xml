@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1563880424040" name="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7" uri="Pilpres_2019A.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1563880424040" name="shadowed:http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7" uri="OnToology/Pilpres_2019A.owl/documentation/ontology.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1563894750813" name="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7" uri="Pilpres_2019A.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1563894750813" name="shadowed:http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7" uri="OnToology/Pilpres_2019A.owl/documentation/ontology.xml"/>
     </group>
 </catalog>
