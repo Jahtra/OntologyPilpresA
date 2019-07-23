@@ -1,5 +1,21 @@
 digraph ar2dtool_diagram { 
 rankdir=LR;
 size="1501"
+node [shape = rectangle, color="orange"]; "base:pariwisata" "base:startup" "base:ekonomi" "base:decacorn" ; /*classes style*/
+	"base:desa_digital" -> "21093ef7:16c1f1be82d:-7ffc" [ label = "owl:backwardCompatibleWith" ];
+	"base:desa_industri" -> "21093ef7:16c1f1be82d:-7ffb" [ label = "owl:backwardCompatibleWith" ];
+	"base:program_kerja" -> "21093ef7:16c1f1be82d:-7ff6" [ label = "owl:backwardCompatibleWith" ];
+	"base:desa_wisata" -> "21093ef7:16c1f1be82d:-7ffa" [ label = "owl:backwardCompatibleWith" ];
+	"base:digital_melayani" -> "21093ef7:16c1f1be82d:-7ff9" [ label = "owl:backwardCompatibleWith" ];
+	"base:ok_oce" -> "21093ef7:16c1f1be82d:-7ff7" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "21093ef7:16c1f1be82d:-7ff5" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "21093ef7:16c1f1be82d:-7ff8" [ label = "owl:backwardCompatibleWith" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:desa_industri" ];
+	"base:startup" -> "xsd:string" [ label = "base:desa_digital" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:ok_oce" ];
+	"base:startup" -> "xsd:string" [ label = "base:digital_melayani" ];
+	"base:decacorn" -> "xsd:string" [ label = "base:program_kerja" ];
+	"base:pariwisata" -> "xsd:string" [ label = "base:desa_wisata" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:dunia_usaha" ];
 
 }
