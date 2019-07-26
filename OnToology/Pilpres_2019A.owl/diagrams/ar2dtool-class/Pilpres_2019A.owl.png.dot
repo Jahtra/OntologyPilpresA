@@ -1,5 +1,27 @@
 digraph ar2dtool_diagram { 
 rankdir=LR;
 size="1501"
+node [shape = rectangle, color="orange"]; "base:pariwisata" "base:startup" "base:ekonomi" "base:decacorn" ; /*classes style*/
+	"base:desa_digital" -> "-7f90213a:16c2f42819b:-7ffc" [ label = "owl:backwardCompatibleWith" ];
+	"base:desa_industri" -> "-7f90213a:16c2f42819b:-7ffb" [ label = "owl:backwardCompatibleWith" ];
+	"base:program_kerja" -> "-7f90213a:16c2f42819b:-7ff3" [ label = "owl:backwardCompatibleWith" ];
+	"base:desa_wisata" -> "-7f90213a:16c2f42819b:-7ffa" [ label = "owl:backwardCompatibleWith" ];
+	"base:digital_melayani" -> "-7f90213a:16c2f42819b:-7ff9" [ label = "owl:backwardCompatibleWith" ];
+	"base:ok_oce" -> "-7f90213a:16c2f42819b:-7ff4" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff5" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff8" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff2" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff7" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7fef" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff1" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff0" [ label = "owl:backwardCompatibleWith" ];
+	"base:dunia_usaha" -> "-7f90213a:16c2f42819b:-7ff6" [ label = "owl:backwardCompatibleWith" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:desa_industri" ];
+	"base:startup" -> "xsd:string" [ label = "base:desa_digital" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:ok_oce" ];
+	"base:startup" -> "xsd:string" [ label = "base:digital_melayani" ];
+	"base:decacorn" -> "xsd:string" [ label = "base:program_kerja" ];
+	"base:pariwisata" -> "xsd:string" [ label = "base:desa_wisata" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:dunia_usaha" ];
 
 }
