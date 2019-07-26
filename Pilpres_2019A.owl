@@ -333,9 +333,7 @@
 
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
-    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#batu_bara"/>
     
 
 
@@ -473,9 +471,7 @@
 
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dukung -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dukung">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"/>
-    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dukung"/>
     
 
 
