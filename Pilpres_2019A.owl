@@ -33,25 +33,15 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_digital -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_digital">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
                 <desa_digital>digitalisasi_desa</desa_digital>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_industri -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_industri">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <desa_industri>industri_desa</desa_industri>
+                <desa_digital>dedi</desa_digital>
+                <desa_digital>wakaf_mikro</desa_digital>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -61,10 +51,13 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_wisata -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_wisata">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
+                <desa_wisata>dewi</desa_wisata>
                 <desa_wisata>industri_wisata</desa_wisata>
             </rdf:Description>
         </owl:backwardCompatibleWith>
@@ -75,68 +68,18 @@
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#digital_melayani -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#digital_melayani">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <digital_melayani>dilan</digital_melayani>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dunia_usaha -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dunia_usaha">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
+                <digital_melayani>e_budgeting</digital_melayani>
+                <digital_melayani>pemerintahan_dilan</digital_melayani>
+                <digital_melayani>e_goverment</digital_melayani>
+                <digital_melayani>e_procurement</digital_melayani>
+                <digital_melayani>dilan</digital_melayani>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -147,32 +90,13 @@
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ok_oce">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
                 <ok_oce>enterpreneurship</ok_oce>
                 <ok_oce>enterpreneur</ok_oce>
                 <ok_oce>kewirausahaan</ok_oce>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kerja -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#program_kerja">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"/>
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <program_kerja>dunia_usaha</program_kerja>
-                <program_kerja>dunia_industri</program_kerja>
-                <program_kerja>ok_oce</program_kerja>
-                <program_kerja>desa_digital</program_kerja>
-                <program_kerja>desa_wisata</program_kerja>
-                <program_kerja>digital_melayani</program_kerja>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -503,54 +427,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#dunia_usaha">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"/>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
-        <owl:backwardCompatibleWith>
-            <rdf:Description>
-                <dunia_usaha>usaha_mandiri</dunia_usaha>
-                <dunia_usaha>usaha_kreatif</dunia_usaha>
-            </rdf:Description>
-        </owl:backwardCompatibleWith>
     </owl:NamedIndividual>
     
 
