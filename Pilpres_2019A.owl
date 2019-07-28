@@ -99,6 +99,30 @@
         </owl:backwardCompatibleWith>
         <owl:backwardCompatibleWith>
             <rdf:Description>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
                 <dunia_usaha>usaha_kreatif</dunia_usaha>
                 <dunia_usaha>usaha_mandiri</dunia_usaha>
             </rdf:Description>
@@ -127,8 +151,8 @@
         <owl:backwardCompatibleWith>
             <rdf:Description>
                 <ok_oce>enterpreneurship</ok_oce>
-                <ok_oce>kewirausahaan</ok_oce>
                 <ok_oce>enterpreneur</ok_oce>
+                <ok_oce>kewirausahaan</ok_oce>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -143,12 +167,12 @@
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
-                <program_kerja>ok_oce</program_kerja>
                 <program_kerja>dunia_usaha</program_kerja>
-                <program_kerja>desa_digital</program_kerja>
                 <program_kerja>dunia_industri</program_kerja>
-                <program_kerja>digital_melayani</program_kerja>
+                <program_kerja>ok_oce</program_kerja>
+                <program_kerja>desa_digital</program_kerja>
                 <program_kerja>desa_wisata</program_kerja>
+                <program_kerja>digital_melayani</program_kerja>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -483,6 +507,30 @@
             <rdf:Description>
                 <dunia_usaha>usaha_kreatif</dunia_usaha>
                 <dunia_usaha>usaha_mandiri</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+            </rdf:Description>
+        </owl:backwardCompatibleWith>
+        <owl:backwardCompatibleWith>
+            <rdf:Description>
+                <dunia_usaha>usaha_mandiri</dunia_usaha>
+                <dunia_usaha>usaha_kreatif</dunia_usaha>
             </rdf:Description>
         </owl:backwardCompatibleWith>
         <owl:backwardCompatibleWith>
@@ -1347,9 +1395,7 @@
 
     <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan">
-        <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"/>
-    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pembangunan"/>
     
 
 
