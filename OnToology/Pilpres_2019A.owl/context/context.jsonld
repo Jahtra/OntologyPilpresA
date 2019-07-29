@@ -1,7 +1,7 @@
 {
   "@context" : {
-    "Keadilan" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Keadilan"
+    "infrastruktur" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"
     },
     "decacorn" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#decacorn"
@@ -12,26 +12,45 @@
     "startup" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#startup"
     },
-    "Infrastruktur" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Infrastruktur"
+    "desa_digital" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_digital",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
     },
     "sdm" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#sdm"
     },
+    "keadilan" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#keadilan"
+    },
     "pariwisata" : {
       "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#pariwisata"
+    },
+    "industri" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri"
+    },
+    "backwardCompatibleWith" : {
+      "@id" : "http://www.w3.org/2002/07/owl#backwardCompatibleWith"
+    },
+    "ekonomi" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"
     },
     "isDefinedBy" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
     },
-    "Ekonomi" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Ekonomi"
+    "ok_oce" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ok_oce",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
     },
-    "Industri" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Industri"
+    "digital_melayani" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#digital_melayani",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
     },
-    "Hukum" : {
-      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#Hukum"
+    "desa_wisata" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#desa_wisata",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hukum" : {
+      "@id" : "http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#hukum"
     }
   }
 }
