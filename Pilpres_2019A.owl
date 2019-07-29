@@ -90,6 +90,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ok_oce">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#ekonomi"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#industri"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#umkm"/>
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
