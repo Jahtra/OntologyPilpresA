@@ -57,8 +57,8 @@
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
-                <desa_wisata>dewi</desa_wisata>
                 <desa_wisata>industri_wisata</desa_wisata>
+                <desa_wisata>dewi</desa_wisata>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -75,11 +75,11 @@
         <rdfs:range rdf:resource="&xsd;string"/>
         <owl:backwardCompatibleWith>
             <rdf:Description>
-                <digital_melayani>e_budgeting</digital_melayani>
-                <digital_melayani>pemerintahan_dilan</digital_melayani>
                 <digital_melayani>e_goverment</digital_melayani>
-                <digital_melayani>e_procurement</digital_melayani>
                 <digital_melayani>dilan</digital_melayani>
+                <digital_melayani>e_budgeting</digital_melayani>
+                <digital_melayani>e_procurement</digital_melayani>
+                <digital_melayani>pemerintahan_dilan</digital_melayani>
             </rdf:Description>
         </owl:backwardCompatibleWith>
     </owl:DatatypeProperty>
@@ -1197,12 +1197,6 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#negara_maju">
         <rdf:type rdf:resource="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#infrastruktur"/>
     </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#novel_baswedan -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/asus/ontologies/2018/10/untitled-ontology-7#novel_baswedan"/>
     
 
 
