@@ -1,5 +1,14 @@
 digraph ar2dtool_diagram { 
 rankdir=LR;
 size="1501"
+node [shape = rectangle, color="orange"]; "base:ekonomi" ; /*classes style*/
+	"base:desa_wisata" -> "54fbe53a:16c901f0a16:-7ffb" [ label = "owl:backwardCompatibleWith" ];
+	"base:desa_digital" -> "54fbe53a:16c901f0a16:-7ffc" [ label = "owl:backwardCompatibleWith" ];
+	"base:digital_melayani" -> "54fbe53a:16c901f0a16:-7ffa" [ label = "owl:backwardCompatibleWith" ];
+	"base:ok_oce" -> "54fbe53a:16c901f0a16:-7ff9" [ label = "owl:backwardCompatibleWith" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:desa_digital" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:ok_oce" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:digital_melayani" ];
+	"base:ekonomi" -> "xsd:string" [ label = "base:desa_wisata" ];
 
 }
